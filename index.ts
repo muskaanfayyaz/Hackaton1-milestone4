@@ -1,3 +1,4 @@
+
 function generateResume(): void {
     const nameInput = document.getElementById("name") as HTMLInputElement;
     const jobTitleInput = document.getElementById("jobTitle") as HTMLInputElement;
