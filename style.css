@@ -68,6 +68,7 @@ button:hover {
     margin: 0 auto;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 19px 38px, rgba(0, 0, 0, 0.12) 0px 15px 12px;
+    box-sizing: border-box;
 }
 
 /* Left Section Styling */
@@ -78,6 +79,7 @@ button:hover {
     width: 35%;
     text-align: center;
     border-right: 5px solid #e59e3b69;
+    box-sizing: border-box;
 }
 
 .profile-picture {
@@ -123,6 +125,7 @@ ul li {
     padding: 20px;
     width: 65%;
     text-align: left; /* Ensure left alignment for the right section */
+    box-sizing: border-box;
 }
 
 .right-section p {
